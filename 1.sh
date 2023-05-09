@@ -24,3 +24,5 @@ then
     echo "La opcion B es la mejor para pago con tarjeta de $option_b€"
 else
     echo "La opcion C es la mejor para pago con tarjeta de $option_c€ para $num_trips viajes"
+
+fi
